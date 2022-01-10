@@ -5,5 +5,5 @@ public class HelloWorld {
 
     // git and github looks easy to learn them
 
-
+// this class is about git and gitHub
 }
